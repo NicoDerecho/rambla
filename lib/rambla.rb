@@ -1,5 +1,5 @@
 class Rambla
   def self.hi
-    puts "Hello world!"
+    puts "Hello world! Im Rambla"
   end
 end
